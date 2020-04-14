@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac471f34-31dd-4b49-a6fd-3d62633cb63f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="340" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="latest_Smartparking_landmarks" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1CWn5FYIRadXdeudsELJKAe37" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Github/Smartparking_landmarks" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.project.Smartparking_landmarks.utilities" />
+      <recent name="com.project.Smartparking_landmarks.service" />
+      <recent name="com.project.Smartparking_landmarks.annotation" />
+      <recent name="com.project.Smartparking_landmarks.model" />
+      <recent name="com.project.Smartparking_landmarks.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.project.Smartparking_landmarks.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.com.project.Smartparking_landmarks in Smartparking_landmarks">
+    <configuration name="DbRestart" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.Smartparking_landmarks.TestController.DbRestart" />
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.TestController.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartparkingLandmarksApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.Smartparking_landmarks.SmartparkingLandmarksApplication" />
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GpsPointsTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.project.Smartparking_landmarks.model.GpsPointsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandMarkControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.Smartparking_landmarks.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.project.Smartparking_landmarks.controller.LandMarkControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandMarkControllerTest.addLandMark" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.Smartparking_landmarks.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.project.Smartparking_landmarks.controller.LandMarkControllerTest" />
+      <option name="METHOD_NAME" value="addLandMark" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandMarkControllerTest.deleteLandMark" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.Smartparking_landmarks.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.project.Smartparking_landmarks.controller.LandMarkControllerTest" />
+      <option name="METHOD_NAME" value="deleteLandMark" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandMarkControllerTest.getLandMarkById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.Smartparking_landmarks.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.project.Smartparking_landmarks.controller.LandMarkControllerTest" />
+      <option name="METHOD_NAME" value="getLandMarkById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.project.Smartparking_landmarks in Smartparking_landmarks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Smartparking_landmarks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.project.Smartparking_landmarks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.project.Smartparking_landmarks" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartparkingLandmarksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Smartparking_landmarks" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.project.Smartparking_landmarks.SmartparkingLandmarksApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DbRestart" />
+      <item itemvalue="Application.SmartparkingLandmarksApplication" />
+      <item itemvalue="JUnit.GpsPointsTest" />
+      <item itemvalue="JUnit.com.project.Smartparking_landmarks in Smartparking_landmarks" />
+      <item itemvalue="JUnit.LandMarkControllerTest.addLandMark" />
+      <item itemvalue="JUnit.LandMarkControllerTest.deleteLandMark" />
+      <item itemvalue="JUnit.LandMarkControllerTest" />
+      <item itemvalue="JUnit.LandMarkControllerTest.getLandMarkById" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.project.Smartparking_landmarks in Smartparking_landmarks" />
+        <item itemvalue="JUnit.LandMarkControllerTest" />
+        <item itemvalue="JUnit.LandMarkControllerTest.addLandMark" />
+        <item itemvalue="JUnit.LandMarkControllerTest.deleteLandMark" />
+        <item itemvalue="JUnit.LandMarkControllerTest.getLandMarkById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac471f34-31dd-4b49-a6fd-3d62633cb63f" name="Default Changelist" comment="" />
+      <created>1580204247306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580204247306</updated>
+      <workItem from="1580204255205" duration="3981000" />
+      <workItem from="1580289856316" duration="1196000" />
+      <workItem from="1580369886096" duration="3529000" />
+      <workItem from="1580385354188" duration="468000" />
+      <workItem from="1580723487808" duration="3779000" />
+      <workItem from="1581069377676" duration="5074000" />
+      <workItem from="1581415242493" duration="703000" />
+      <workItem from="1581483998963" duration="1759000" />
+      <workItem from="1581572213586" duration="5769000" />
+      <workItem from="1581915105389" duration="670000" />
+      <workItem from="1581923100895" duration="5152000" />
+      <workItem from="1582002591582" duration="11676000" />
+      <workItem from="1582088428869" duration="2569000" />
+      <workItem from="1582173883100" duration="9127000" />
+      <workItem from="1582262920002" duration="675000" />
+      <workItem from="1582266157431" duration="10000" />
+      <workItem from="1582268215872" duration="1714000" />
+      <workItem from="1582270346849" duration="727000" />
+      <workItem from="1582536602544" duration="74000" />
+      <workItem from="1582547137334" duration="133000" />
+      <workItem from="1582547319249" duration="413000" />
+      <workItem from="1582547752828" duration="42000" />
+      <workItem from="1582547815707" duration="38000" />
+      <workItem from="1582547870760" duration="608000" />
+      <workItem from="1582611749499" duration="9242000" />
+      <workItem from="1582697059502" duration="14498000" />
+      <workItem from="1582779287322" duration="7399000" />
+      <workItem from="1582867510867" duration="16715000" />
+      <workItem from="1583126938777" duration="9192000" />
+      <workItem from="1583214517888" duration="4889000" />
+      <workItem from="1583297535906" duration="12329000" />
+      <workItem from="1583386369013" duration="3536000" />
+      <workItem from="1583473123980" duration="13878000" />
+      <workItem from="1583904969170" duration="7264000" />
+      <workItem from="1583991118245" duration="8265000" />
+      <workItem from="1584078527876" duration="1002000" />
+      <workItem from="1584082689416" duration="10581000" />
+      <workItem from="1584100275098" duration="2214000" />
+      <workItem from="1584338054408" duration="9984000" />
+      <workItem from="1584421736928" duration="2901000" />
+      <workItem from="1584429593803" duration="4015000" />
+      <workItem from="1584505617938" duration="15640000" />
+      <workItem from="1584533998257" duration="1216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="91" width="816" height="724" key="#Intentions" timestamp="1582622584500">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="91" width="816" height="724" key="#Intentions/0.0.1600.860@0.0.1600.860" timestamp="1582622584500" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1584959954297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1584959954297" />
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585195946725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585195946725" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1580290236239" />
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585656777755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1585656777755" />
+    <state x="484" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1586065779631">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="484" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586065779631" />
+    <state x="605" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1584523478268" />
+    <state x="466" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585042409531">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1585042409531" />
+    <state x="518" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584599939138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="518" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1584599939138" />
+    <state x="648" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1580289962604" />
+    <state x="467" y="236" width="550" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586515356481">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="467" y="236" width="550" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1586515356481" />
+    <state x="584" y="298" width="473" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1584097434317" />
+    <state x="411" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580385385893">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="411" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1580385385893" />
+    <state x="424" y="142" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585630934953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="424" y="142" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585630934953" />
+    <state x="530" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1584089228627" />
+    <state x="358" y="79" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586148082820">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="79" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1586148082820" />
+    <state x="464" y="146" key="FileChooserDialogImpl" timestamp="1586533449331">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="464" y="146" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586533449331" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583477822894" />
+    <state width="1222" height="166" key="GridCell.Tab.0.bottom" timestamp="1586533797287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586533797287" />
+    <state width="1557" height="216" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584536570693" />
+    <state width="1222" height="166" key="GridCell.Tab.0.center" timestamp="1586533797287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="166" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586533797287" />
+    <state width="1557" height="216" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584536570693" />
+    <state width="1222" height="166" key="GridCell.Tab.0.left" timestamp="1586533797287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="166" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586533797287" />
+    <state width="1557" height="216" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584536570693" />
+    <state width="1222" height="166" key="GridCell.Tab.0.right" timestamp="1586533797287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="166" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586533797287" />
+    <state width="1557" height="216" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584536570693" />
+    <state width="1222" height="249" key="GridCell.Tab.1.bottom" timestamp="1586533797282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="249" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586533797282" />
+    <state width="1557" height="216" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584533985734" />
+    <state width="1222" height="249" key="GridCell.Tab.1.center" timestamp="1586533797282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="249" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586533797282" />
+    <state width="1557" height="216" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1584533985734" />
+    <state width="1222" height="249" key="GridCell.Tab.1.left" timestamp="1586533797282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="249" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586533797282" />
+    <state width="1557" height="216" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1584533985733" />
+    <state width="1222" height="249" key="GridCell.Tab.1.right" timestamp="1586533797282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="249" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586533797282" />
+    <state width="1557" height="216" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1584533985734" />
+    <state width="1557" height="209" key="GridCell.Tab.2.bottom" timestamp="1583154037766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="209" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583154037766" />
+    <state width="1557" height="209" key="GridCell.Tab.2.center" timestamp="1583154037766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="209" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1583154037766" />
+    <state width="1557" height="209" key="GridCell.Tab.2.left" timestamp="1583154037766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="209" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1583154037766" />
+    <state width="1557" height="209" key="GridCell.Tab.2.right" timestamp="1583154037766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="209" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1583154037766" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1586329616009">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1586329616009" />
+    <state x="130" y="0" key="SettingsEditor" timestamp="1586250395250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="130" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586250395250" />
+    <state width="640" height="340" key="XDebugger.FullValuePopup" timestamp="1585631224733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="640" height="340" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1585631224733" />
+    <state x="268" y="180" key="caller.chooser.dialog" timestamp="1584089236449">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="268" y="180" key="caller.chooser.dialog/0.0.1600.860@0.0.1600.860" timestamp="1584089236449" />
+    <state width="749" height="678" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1585041018327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="749" height="678" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1280.680@0.0.1280.680" timestamp="1585041018327" />
+    <state x="396" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1586519432679">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="201" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586519432679" />
+    <state x="495" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1584505786764" />
+    <state x="375" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584959941263">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1584959941263" />
+    <state x="426" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586354678388">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="426" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1586354678388" />
+    <state x="533" y="163" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1583491074024" />
+    <state x="365" y="154" key="run.anything.popup" timestamp="1585296653398">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="365" y="154" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1585296653398" />
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582623565010" />
+    <state x="370" y="142" width="672" height="537" key="search.everywhere.popup" timestamp="1586271532762">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="142" width="672" height="537" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586271532762" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1582620730883" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/project/Smartparking_landmarks/service/LandmarkServiceTest.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/project/Smartparking_landmarks/service/LandmarkServiceTest.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/project/Smartparking_landmarks/service/LandmarkServiceTest.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/project/Smartparking_landmarks/service/LandmarkServiceTest.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/project/Smartparking_landmarks/service/LandmarkServiceTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/project/Smartparking_landmarks/service/LandmarkServiceTest.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="this.landmarkId" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkTest.ic" NAME="LandMarkTest Coverage Results" MODIFIED="1585488300994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit4_latest_Smartparking_landmarks$GpsPointsTest.ic" NAME="GpsPointsTest Coverage Results" MODIFIED="1585714413000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$SmartparkingLandmarksApplication.ic" NAME="SmartparkingLandmarksApplication Coverage Results" MODIFIED="1582624728958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkTest_setAnchor.ic" NAME="LandMarkTest.setAnchor Coverage Results" MODIFIED="1585053231648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$GpsPointsTest.ic" NAME="GpsPointsTest Coverage Results" MODIFIED="1585488282371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit4_latest_Smartparking_landmarks$SmartparkingLandmarksApplication.ic" NAME="SmartparkingLandmarksApplication Coverage Results" MODIFIED="1586403814449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit4_latest_Smartparking_landmarks$SmartparkingLandmarksApplicationTests.ic" NAME="SmartparkingLandmarksApplicationTests Coverage Results" MODIFIED="1586403970488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkControllerTest_deleteLandMark.ic" NAME="LandMarkControllerTest.deleteLandMark Coverage Results" MODIFIED="1585149655253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkTest_getAnchor.ic" NAME="LandMarkTest.getAnchor Coverage Results" MODIFIED="1584954234824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkTest_setLandmarkId.ic" NAME="LandMarkTest.setLandmarkId Coverage Results" MODIFIED="1585050918083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit4_latest_Smartparking_landmarks$LandmarkServiceTest_nonExistingLandmarkId.ic" NAME="LandmarkServiceTest.nonExistingLandmarkId Coverage Results" MODIFIED="1586404944982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$SmartparkingLandmarksApplicationTests.ic" NAME="SmartparkingLandmarksApplicationTests Coverage Results" MODIFIED="1585488183387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkTest_setLandmarkId__1_.ic" NAME="LandMarkTest.setLandmarkId (1) Coverage Results" MODIFIED="1585047882341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkTest_setGpsPoints.ic" NAME="LandMarkTest.setGpsPoints Coverage Results" MODIFIED="1585050048934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkTest_setImage.ic" NAME="LandMarkTest.setImage Coverage Results" MODIFIED="1585053031965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkControllerTest_save.ic" NAME="LandMarkControllerTest.save Coverage Results" MODIFIED="1585126126900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$com_project_Smartparking_landmarks_in_Smartparking_landmarks.ic" NAME="com.project.Smartparking_landmarks in Smartparking_landmarks Coverage Results" MODIFIED="1585540906626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/junit4_latest_Smartparking_landmarks$com_project_Smartparking_landmarks_in_Smartparking_landmarks.ic" NAME="com.project.Smartparking_landmarks in Smartparking_landmarks Coverage Results" MODIFIED="1586533736714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/latest_Smartparking_landmarks$LandMarkControllerTest.ic" NAME="LandMarkControllerTest Coverage Results" MODIFIED="1585488341889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.project.Smartparking_landmarks.controller.*</FILTER>
+    </SUITE>
+  </component>
+</project>
